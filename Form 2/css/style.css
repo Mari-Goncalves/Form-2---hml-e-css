@@ -1,0 +1,56 @@
+body{
+    background: #4C0C60;
+    font-family: sans-serif;  
+
+}
+
+.container_form{
+    background: #FFFFFF;
+    box-shadow: 0 20px 20px rgba(0,0, 0, 0.24);
+    width: 300px;
+    margin: auto;
+    margin: 100px auto 100px;
+    padding: 45px;
+    position: relative;
+    text-align: center;
+
+}
+
+.label_form{
+    text-align: left;
+
+}
+
+.input_form{
+    background: #F2F2F2;
+    width: 100%;
+    border: 0;
+    margin: 0 0 15px;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 14px;
+
+}
+
+.botao_form{
+    background: #FFC107;
+    border: 0;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-size: 14px;
+    padding: 15px;
+    width: 100%;
+    
+}
+.mensagem_form{
+    color: #B3B3B3;
+    font-size: 12px;
+    margin: 15px 0 0;
+
+}
+
+.mensagem_form a{
+    color: #4C0C60;
+    text-decoration: none;
+
+}
