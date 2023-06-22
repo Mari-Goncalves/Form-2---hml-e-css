@@ -13,7 +13,7 @@
 
 
 Login page form created with HTML and CSS:
-* *Project deploy* - https://mari-goncalves.github.io/Login-page/
+* *Acess here* - https://mari-goncalves.github.io/Login-page/
 
 ---
 
